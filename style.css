@@ -1,0 +1,51 @@
+body {
+    color:salmon;
+    background-color: peachpuff;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .heading {
+      width : 50%;
+      font-size: 25px;
+      font-family: fantasy;
+  }
+  
+  p {
+      font-size: 22px;
+      color : rgb(204, 0, 95);
+      font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .object_names {
+      font-size : 18px;
+      color:hotpink ;
+      font-family: cursive;
+      font-weight: bold;
+  }
+  
+  #camera {
+  
+      width : 360px;
+      height : 200px;
+  }
+  
+  #result {
+      border : 5px ridge black;
+      width : 360px;
+      height : 310px;
+  }
+  
+  #name_object {
+      color :rgb(34, 140, 158);
+      font-size : 22px;
+      font-family: 'Times New Roman', Times, serif; 
+      font-weight: bold;
+  }
+  
+  #accuracy_object {
+      color:steelblue;
+      font-size : 22px;
+      font-family: 'Times New Roman', Times, serif; 
+      font-weight: bold;
+  }
